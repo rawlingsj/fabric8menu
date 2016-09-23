@@ -1,0 +1,6 @@
+gofabric8
+/build
+/release
+*.iml
+.idea
+fabric8menu.app/

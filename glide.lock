@@ -1,0 +1,14 @@
+hash: c1503a7bc54bfc6cdd3249325cb872a6d5ce1edc72d174641475116849efa01b
+updated: 2016-09-23T22:26:34.506047114+01:00
+imports:
+- name: github.com/alexflint/gallium
+  version: eaa09fb40e62167c23338679700826a17638eb73
+- name: github.com/daviddengcn/go-colortext
+  version: 511bcaf42ccd42c38aba7427b6673277bf19e2a1
+- name: github.com/google/go-github
+  version: 94a3cd9f531888fe4a03487276c0adb887428e77
+- name: github.com/spf13/cobra
+  version: 9c28e4bbd74e5c3ed7aacbc552b2cab7cfdfe744
+- name: github.com/spf13/pflag
+  version: c7e63cf4530bcd3ba943729cee0efeff2ebea63f
+devImports: []
