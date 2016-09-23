@@ -21,6 +21,7 @@ import (
 	"runtime"
 
 	"github.com/alexflint/gallium"
+	"github.com/fabric8io/gofabric8/cmds"
 )
 
 func main() {
@@ -58,6 +59,7 @@ func onReady(browser *gallium.App) {
 }
 
 func handleInstall() {
+	cmds.Install(false)
 	log.Println("installing")
 }
 
